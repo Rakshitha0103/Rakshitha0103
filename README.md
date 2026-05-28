@@ -1,28 +1,28 @@
-# 👋 Hi, I'm Rakshitha
+#  Hi, I'm Rakshitha
 
-🎓 Information Science Student
-📊 Aspiring Data Analyst | Python & Machine Learning
-
----
-
-## 🚀 About Me
-
-* 💡 I love working with data and building real-world projects
-* 📊 Created projects like Movie Recommendation System & AQI Analysis
-* 🏥 Interested in healthcare and AI-based applications
-* 📈 Currently focusing on Data Analysis & SQL
+ Information Science Student,
+ Aspiring Data Analyst | Python & Machine Learning
 
 ---
 
-## 🔭 Currently Working On
+##  About Me
 
-* 📊 Data Analysis using Python (Pandas, NumPy)
-* 🤖 Improving Machine Learning models
-* 🌐 Building practical AI & analytics projects
+*  I love working with data and building real-world projects
+*  Created projects like Movie Recommendation System & AQI Analysis
+*  Interested in healthcare and AI-based applications
+*  Currently focusing on Data Analysis & SQL
 
 ---
 
-## 🛠️ Tech Stack
+##  Currently Working On
+
+*  Data Analysis using Python (Pandas, NumPy)
+*  Improving Machine Learning models
+*  Building practical AI & analytics projects
+
+---
+
+##  Tech Stack
 
 * **Languages:** Python, SQL, TypeScript, HTML
 * **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib
@@ -30,12 +30,12 @@
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
-* 📧 Email: [srakshitha212@gmail.com](mailto:srakshitha212@gmail.com)
-* 💼 LinkedIn: https://www.linkedin.com/in/rakshitha0103/
-* 💻 GitHub: https://github.com/Rakshitha0103/
+*  Email: [srakshitha212@gmail.com](mailto:srakshitha212@gmail.com)
+*  LinkedIn: https://www.linkedin.com/in/rakshitha0103/
+*  GitHub: https://github.com/Rakshitha0103/
 
 ---
 
-⭐ *Always learning, building, and growing in Data & AI*
+ *Always learning, building, and growing in Data & AI*
